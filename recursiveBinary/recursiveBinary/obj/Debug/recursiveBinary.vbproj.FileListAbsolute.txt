@@ -1,0 +1,9 @@
+C:\Users\Quasem\Desktop\recursiveBinary\recursiveBinary\bin\Debug\recursiveBinary.exe.config
+C:\Users\Quasem\Desktop\recursiveBinary\recursiveBinary\bin\Debug\recursiveBinary.exe
+C:\Users\Quasem\Desktop\recursiveBinary\recursiveBinary\bin\Debug\recursiveBinary.pdb
+C:\Users\Quasem\Desktop\recursiveBinary\recursiveBinary\bin\Debug\recursiveBinary.xml
+C:\Users\Quasem\Desktop\recursiveBinary\recursiveBinary\obj\Debug\recursiveBinary.Resources.resources
+C:\Users\Quasem\Desktop\recursiveBinary\recursiveBinary\obj\Debug\recursiveBinary.vbproj.GenerateResource.Cache
+C:\Users\Quasem\Desktop\recursiveBinary\recursiveBinary\obj\Debug\recursiveBinary.exe
+C:\Users\Quasem\Desktop\recursiveBinary\recursiveBinary\obj\Debug\recursiveBinary.xml
+C:\Users\Quasem\Desktop\recursiveBinary\recursiveBinary\obj\Debug\recursiveBinary.pdb
